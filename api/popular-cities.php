@@ -81,7 +81,31 @@
 	<div class="ad-disclaimer">
   Реклама. АО Эдутех Групп, ИНН 7838094112, erid: LdtCKaoMZ
 </div>
-   <!-- <div class="all-cities-link">
+<!-- ======== Популярные города ======== -->
+<section class="popular-cities">
+    <h2>📍 Другие города</h2>
+    <div class="cities-grid">
+<a href="/moskva.php">Москва</a>
+<a href="/sankt-peterburg.php">Санкт-Петербург</a>
+<a href="/izhevsk.php">Ижевск</a>
+<a href="/kazan.php">Казань</a>
+<a href="/penza.php">Пенза</a>
+<a href="/perm.php">Пермь</a>
+<a href="/rostov-na-donu.php">Ростов-на-Дону</a>
+<a href="/ryazan.php">Рязань</a>
+<a href="/samara.php">Самара</a>
+<a href="/saratov.php">Саратов</a>
+<a href="/stavropol.php">Ставрополь</a>
+<a href="/tver.php">Тверь</a>
+<a href="/tula.php">Тула</a>
+<a href="/tyumen.php">Тюмень</a>
+<a href="/ulyanovsk.php">Ульяновск</a>
+<a href="/ufa.php">Уфа</a>
+<a href="/himki.php">Химки</a>
+<a href="/cheboksary.php">Чебоксары</a>
+    </div>
+   <div class="all-cities-link">
         <a href="/goroda.php" class="btn">Все города →</a>
-    </div>-->
+    </div>
 </section>
+
