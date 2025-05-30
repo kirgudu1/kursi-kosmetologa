@@ -2466,44 +2466,23 @@ h1 {
   }
 }
 
-
-.cookie-notice {
-  position: fixed;
-  bottom: 20px;
-  left: 20px;
-  right: 20px;
-  background: #fdf6e3;
-  border: 1px solid #e0d4a5;
-  border-radius: 10px;
-  padding: 15px 20px;
-  font-size: 14px;
-  color: #444;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
-  z-index: 9999;
-}
-
-.cookie-notice a {
-  color: #0066cc;
-  text-decoration: underline;
-}
-
-.cookie-notice button {
-  align-self: flex-end;
-  background: #ffd366;
-  border: none;
-  padding: 8px 16px;
-  border-radius: 6px;
-  cursor: pointer;
-}
-
-@media (min-width: 600px) {
+@media (max-width: 599px) {
   .cookie-notice {
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
+    font-size: 13px;
+    padding: 10px 14px;
+    gap: 6px;
+    bottom: 10px;
+    left: 10px;
+    right: 10px;
+  }
+
+  .cookie-notice button {
+    padding: 6px 12px;
+    font-size: 13px;
+  }
+
+  .cookie-notice a {
+    display: inline-block;
+    margin-top: 4px;
   }
 }
-

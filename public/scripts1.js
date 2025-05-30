@@ -94,11 +94,14 @@ document.addEventListener("DOMContentLoaded", function () {
   const notice = document.createElement("div");
   notice.className = "cookie-notice";
   notice.innerHTML = `
-    <p>
-      Сайт использует файлы cookie, что позволяет получать информацию о вас. Это нужно, чтобы улучшать сайт. Продолжая пользоваться сайтом, вы соглашаетесь с использованием cookie и передачей данных сторонним партнёрам.
-      <a href="/privacy.html" target="_blank">Подробнее о политике конфиденциальности</a>.
-    </p>
-    <button id="cookieAccept">ОК</button>
+<div class="cookie-notice" id="cookieNotice">
+  <p>
+    Мы используем cookie для улучшения работы сайта. Продолжая пользоваться сайтом, вы соглашаетесь с этим.
+    <a href="/privacy.html" target="_blank">Подробнее</a>.
+  </p>
+  <button id="cookieAccept">ОК</button>
+</div>
+
   `;
   document.body.appendChild(notice);
 
