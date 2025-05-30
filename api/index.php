@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+<meta name="yandex-verification" content="512198faeeddb2bf" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Курсы косметологии с дипломом — рейтинг лучших школ в России 2025</title>
