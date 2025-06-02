@@ -91,9 +91,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в течение активного сезона.</p>
 <p><strong>📍 Адрес:</strong> г. Набережные Челны, ул. Новая, д. 5</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78005553535">+7 (800) 555-35-35</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank">naberezhnye-chelny.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank">naberezhnye-chelny.ecolespb.ru</a></p>
 </div>
-<a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс депиляции" в стиле Топ1 конец -->
@@ -162,7 +162,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -183,9 +183,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> ограниченное предложение</p>
 <p><strong>📍 Адрес:</strong> г. Набережные Челны, ул. Примерная, д. 1</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78126480083">+7 (812) 648-00-83</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/upkeep" target="_blank">naberezhnye-chelny.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/upkeep&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/upkeep" target="_blank">naberezhnye-chelny.ecolespb.ru</a></p>
 </div>
-<a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/upkeep" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/upkeep&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/upkeep" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс эстетической косметологии" в стиле Топ1 конец -->
@@ -259,7 +259,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/upkeep" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/upkeep&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/upkeep" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -280,9 +280,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в данный момент времени</p>
 <p><strong>📍 Адрес:</strong> г. Набережные Челны, ул. Красный Ключ, д. 12</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78772346000">+7 (877) 234-60-00</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank">naberezhnye-chelny.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank">naberezhnye-chelny.ecolespb.ru</a></p>
 </div>
-<a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс аппаратной косметологии" в стиле Топ1 конец -->
@@ -361,7 +361,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -383,9 +383,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в данный период</p>
 <p><strong>📍 Адрес:</strong> г. Набережные Челны, ул. Победы, д. 10</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78126480083">+7 (812) 648-00-83</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank">naberezhnye-chelny.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank">naberezhnye-chelny.ecolespb.ru</a></p>
 </div>
-<a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс повышения квалификации по всесезонным пилингам" в стиле Топ1 конец -->
@@ -459,7 +459,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -480,9 +480,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в текущий период</p>
 <p><strong>📍 Адрес:</strong> Набережные Челны, ул. Ленина, д. 10</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78126480083">+7 (812) 648-00-83</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank">naberezhnye-chelny.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank">naberezhnye-chelny.ecolespb.ru</a></p>
 </div>
-<a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс шугаринга" в стиле Топ1 конец -->
@@ -551,7 +551,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -572,9 +572,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в период акций на программу</p>
 <p><strong>📍 Адрес:</strong> г. Набережные Челны, ул. Примерная, д. 1</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78005553535">+7 (800) 555-35-35</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank">naberezhnye-chelny.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank">naberezhnye-chelny.ecolespb.ru</a></p>
 </div>
-<a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Косметолог - эстетист" в стиле Топ1 конец -->
@@ -653,7 +653,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -675,9 +675,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> при записи на курс.</p>
 <p><strong>📍 Адрес:</strong> Набережные Челны, ул. Красноармейская, д. 15</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78126480083">+7 (812) 648-00-83</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank">naberezhnye-chelny.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank">naberezhnye-chelny.ecolespb.ru</a></p>
 </div>
-<a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/programm-master_waxing" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/programm-master_waxing" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Мастер по депиляции" в стиле Топ1 конец -->
@@ -746,7 +746,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -767,9 +767,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> сейчас при записи на курс.</p>
 <p><strong>📍 Адрес:</strong> г. Набережные Челны</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78126480083">+7 (812) 648-00-83</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank">naberezhnye-chelny.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank">naberezhnye-chelny.ecolespb.ru</a></p>
 </div>
-<a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс повышения квалификации по депиляции" в стиле Топ1 конец -->
@@ -838,7 +838,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -860,9 +860,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в данный момент</p>
 <p><strong>📍 Адрес:</strong> г. Набережные Челны, ул. Красная, д. 10</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78126480083">+7 (812) 648-00-83</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank">naberezhnye-chelny.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank">naberezhnye-chelny.ecolespb.ru</a></p>
 </div>
-<a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс косметологии SPA" в стиле Топ1 конец -->
@@ -931,7 +931,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://naberezhnye-chelny.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">

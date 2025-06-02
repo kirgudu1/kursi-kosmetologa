@@ -90,9 +90,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> при ранней записи</p>
 <p><strong>📍 Адрес:</strong> г. Киров, ул. Примерная, д. 1</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78001234567">+7 (800) 123-45-67</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://kirov.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank">kirov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://kirov.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank">kirov.ecolespb.ru</a></p>
 </div>
-<a href="https://kirov.ecolespb.ru/cosmetology-school/programm-master_waxing" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://kirov.ecolespb.ru/cosmetology-school/programm-master_waxing" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Мастер по депиляции" в стиле Топ1 конец -->
@@ -158,7 +158,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://kirov.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://kirov.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -179,9 +179,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение при актуальных промо-акциях</p>
 <p><strong>📍 Адрес:</strong> г. Киров, ул. Ленина, д. 10</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74122110022">+7 (412) 211-00-22</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://kirov.ecolespb.ru/cosmetology-school/cosmetology" target="_blank">kirov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://kirov.ecolespb.ru/cosmetology-school/cosmetology" target="_blank">kirov.ecolespb.ru</a></p>
 </div>
-<a href="https://kirov.ecolespb.ru/cosmetology-school/cosmetology" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://kirov.ecolespb.ru/cosmetology-school/cosmetology" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс дерматологии и анатомии лица" в стиле Топ1 конец -->
@@ -250,7 +250,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://kirov.ecolespb.ru/cosmetology-school/cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://kirov.ecolespb.ru/cosmetology-school/cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -272,9 +272,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение до конца месяца</p>
 <p><strong>📍 Адрес:</strong> г. Киров, ул. Ленина, д. 15</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78005553535">+7 (800) 555-35-35</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://kirov.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank">kirov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://kirov.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank">kirov.ecolespb.ru</a></p>
 </div>
-<a href="https://kirov.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://kirov.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс косметологии SPA" в стиле Топ1 конец -->
@@ -343,7 +343,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://kirov.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://kirov.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -364,9 +364,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение</p>
 <p><strong>📍 Адрес:</strong> г. Киров, ул. Красная, д. 12</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78322123456">+7 (8322) 12-34-56</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank">kirov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank">kirov.ecolespb.ru</a></p>
 </div>
-<a href="https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс повышения квалификации по депиляции" в стиле Топ1 конец -->
@@ -430,7 +430,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -451,9 +451,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в данный момент</p>
 <p><strong>📍 Адрес:</strong> г. Киров, ул. Красной Армии, д. 15</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+79112345678">+7 (911) 234-56-78</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://kirov.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank">kirov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://kirov.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank">kirov.ecolespb.ru</a></p>
 </div>
-<a href="https://kirov.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://kirov.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс повышения квалификации по всесезонным пилингам при работе с гиперпигментацией" в стиле Топ1 конец -->
@@ -527,7 +527,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://kirov.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://kirov.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -549,9 +549,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> — сейчас отличное время для записи!</p>
 <p><strong>📍 Адрес:</strong> Киров, ул. Примерная, д. 10</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78005553535">+7 (800) 555-35-35</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://kirov.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank">kirov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://kirov.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank">kirov.ecolespb.ru</a></p>
 </div>
-<a href="https://kirov.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://kirov.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Косметолог - эстетист" в стиле Топ1 конец -->
@@ -630,7 +630,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://kirov.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://kirov.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -652,9 +652,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в течение ограниченного времени.</p>
 <p><strong>📍 Адрес:</strong> Киров, ул. Нутрициологическая, д. 10</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78005553535">+7 (800) 555-35-35</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://kirov.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank">kirov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/nutrition-courses&sub1=https://kirov.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank">kirov.ecolespb.ru</a></p>
 </div>
-<a href="https://kirov.ecolespb.ru/cosmetology-school/nutrition-courses" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/nutrition-courses&sub1=https://kirov.ecolespb.ru/cosmetology-school/nutrition-courses" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс основы нутрициологии" в стиле Топ1 конец -->
@@ -723,7 +723,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://kirov.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/nutrition-courses&sub1=https://kirov.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -744,9 +744,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в период акций</p>
 <p><strong>📍 Адрес:</strong> г. Киров, ул. Косметологическая, д. 1</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+79511223344">+7 (951) 122-33-44</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank">kirov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank">kirov.ecolespb.ru</a></p>
 </div>
-<a href="https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс депиляции воском" в стиле Топ1 конец -->
@@ -815,7 +815,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -836,9 +836,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в период акций</p>
 <p><strong>📍 Адрес:</strong> г. Киров, ул. Ленина, д. 15</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74122223344">+7 (412) 222-33-44</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank">kirov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank">kirov.ecolespb.ru</a></p>
 </div>
-<a href="https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс шугаринга" в стиле Топ1 конец -->
@@ -912,7 +912,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://kirov.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -935,9 +935,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в данный период.</p>
 <p><strong>📍 Адрес:</strong> г. Киров, ул. Ленина, д. 10</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78005553535">+7 (800) 555-35-35</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://kirov.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank">kirov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://kirov.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank">kirov.ecolespb.ru</a></p>
 </div>
-<a href="https://kirov.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://kirov.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс этики и психологии общения с клиентом в косметологии" в стиле Топ1 конец -->
@@ -1011,7 +1011,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://kirov.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://kirov.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1033,9 +1033,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в период, когда действуют максимальные предложения.</p>
 <p><strong>📍 Адрес:</strong> г. Киров, ул. Примерная, д. 1</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78001234567">+7 (800) 123-45-67</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://kirov.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank">kirov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://kirov.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank">kirov.ecolespb.ru</a></p>
 </div>
-<a href="https://kirov.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://kirov.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс аппаратной косметологии" в стиле Топ1 конец -->
@@ -1104,7 +1104,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://kirov.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://kirov.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1125,9 +1125,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в текущий период акций</p>
 <p><strong>📍 Адрес:</strong> г. Киров, ул. Примерная, д. 1</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78005553535">+7 (800) 555-35-35</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://kirov.ecolespb.ru/cosmetology-school/upkeep" target="_blank">kirov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/upkeep&sub1=https://kirov.ecolespb.ru/cosmetology-school/upkeep" target="_blank">kirov.ecolespb.ru</a></p>
 </div>
-<a href="https://kirov.ecolespb.ru/cosmetology-school/upkeep" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/upkeep&sub1=https://kirov.ecolespb.ru/cosmetology-school/upkeep" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс эстетической косметологии" в стиле Топ1 конец -->
@@ -1196,7 +1196,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://kirov.ecolespb.ru/cosmetology-school/upkeep" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kirov.ecolespb.ru/cosmetology-school/upkeep&sub1=https://kirov.ecolespb.ru/cosmetology-school/upkeep" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">

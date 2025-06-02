@@ -90,9 +90,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">30%</span> — предложенные условия по снижению цены на курс</p>
 <p><strong>📍 Адрес:</strong> г. Липецк, ул. Первомайская, д. 57</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74742370625">+7 (4742) 370-625</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://lipetsk.ecolespb.ru/cosmetology-school/cosmetology" target="_blank">lipetsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/cosmetology" target="_blank">lipetsk.ecolespb.ru</a></p>
 </div>
-<a href="https://lipetsk.ecolespb.ru/cosmetology-school/cosmetology" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/cosmetology" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс дерматологии и анатомии лица" в стиле Топ1 конец -->
@@ -158,7 +158,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://lipetsk.ecolespb.ru/cosmetology-school/cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -179,9 +179,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение, действует постоянно.</p>
 <p><strong>📍 Адрес:</strong> г. Липецк, ул. Первомайская, д. 57</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74742370625">+7 (4742) 370-625</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://lipetsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank">lipetsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank">lipetsk.ecolespb.ru</a></p>
 </div>
-<a href="https://lipetsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс аппаратной косметологии" в стиле Топ1 конец -->
@@ -250,7 +250,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://lipetsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -272,9 +272,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в период акций</p>
 <p><strong>📍 Адрес:</strong> г. Липецк, ул. Первомайская, д. 57</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74717710101">+7 (471) 771-01-01</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://lipetsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank">lipetsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank">lipetsk.ecolespb.ru</a></p>
 </div>
-<a href="https://lipetsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс этики и психологии общения с клиентом в косметологии" в стиле Топ1 конец -->
@@ -343,7 +343,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://lipetsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -364,9 +364,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в рамках специальных предложений.</p>
 <p><strong>📍 Адрес:</strong> г. Липецк, ул. Первомайская, д. 57</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78001234567">+7 (800) 123-45-67</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank">lipetsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank">lipetsk.ecolespb.ru</a></p>
 </div>
-<a href="https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курсы депиляции" в стиле Топ1 конец -->
@@ -435,7 +435,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -456,9 +456,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в течение ограниченного времени</p>
 <p><strong>📍 Адрес:</strong> г. Липецк, ул. Первомайская, д. 57</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74742370625">+7 (4742) 370-625</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank">lipetsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank">lipetsk.ecolespb.ru</a></p>
 </div>
-<a href="https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс шугаринга" в стиле Топ1 конец -->
@@ -527,7 +527,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -548,9 +548,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение</p>
 <p><strong>📍 Адрес:</strong> Липецк, ул. Первомайская, д. 57</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74742370625">+7 (4742) 370-625</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://lipetsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank">lipetsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank">lipetsk.ecolespb.ru</a></p>
 </div>
-<a href="https://lipetsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс косметологии SPA" в стиле Топ1 конец -->
@@ -614,7 +614,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://lipetsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -636,9 +636,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в период акций и распродаж.</p>
 <p><strong>📍 Адрес:</strong> Липецк, ул. Первомайская, д. 57</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74742370625">+7 (4742) 370-625</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://lipetsk.ecolespb.ru/cosmetology-school/upkeep" target="_blank">lipetsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/upkeep&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/upkeep" target="_blank">lipetsk.ecolespb.ru</a></p>
 </div>
-<a href="https://lipetsk.ecolespb.ru/cosmetology-school/upkeep" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/upkeep&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/upkeep" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс эстетической косметологии" в стиле Топ1 конец -->
@@ -707,7 +707,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://lipetsk.ecolespb.ru/cosmetology-school/upkeep" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/upkeep&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/upkeep" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -729,9 +729,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в период акций и предложений</p>
 <p><strong>📍 Адрес:</strong> г. Липецк, ул. Первомайская, д. 57</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74742370625">+7 (4742) 370-625</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://lipetsk.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank">lipetsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank">lipetsk.ecolespb.ru</a></p>
 </div>
-<a href="https://lipetsk.ecolespb.ru/cosmetology-school/programm-master_waxing" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/programm-master_waxing" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Мастер по депиляции" в стиле Топ1 конец -->
@@ -800,7 +800,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://lipetsk.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -821,9 +821,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> при заказе обучения в данный период</p>
 <p><strong>📍 Адрес:</strong> г. Липецк, ул. Первомайская, д. 57</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74742370625">+7 (4742) 370-625</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://lipetsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank">lipetsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank">lipetsk.ecolespb.ru</a></p>
 </div>
-<a href="https://lipetsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс повышения квалификации по всесезонным пилингам при работе с гиперпигментацией" в стиле Топ1 конец -->
@@ -897,7 +897,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://lipetsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -919,9 +919,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение</p>
 <p><strong>📍 Адрес:</strong> г. Липецк, ул. Первомайская, д. 57</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74742370625">+7 (4742) 370-625</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://lipetsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank">lipetsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank">lipetsk.ecolespb.ru</a></p>
 </div>
-<a href="https://lipetsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Косметолог - эстетист" в стиле Топ1 конец -->
@@ -995,7 +995,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://lipetsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1016,9 +1016,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в ближайшие дни</p>
 <p><strong>📍 Адрес:</strong> г. Липецк, ул. Первомайская, д. 57</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74742370625">+7 (4742) 370-625</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank">lipetsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank">lipetsk.ecolespb.ru</a></p>
 </div>
-<a href="https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курсы повышения квалификации по депиляции" в стиле Топ1 конец -->
@@ -1092,7 +1092,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://lipetsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">

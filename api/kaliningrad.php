@@ -92,9 +92,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в период акции</p>
 <p><strong>📍 Адрес:</strong> Калининград, ул. Фрунзе, д. 107</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+79637381035">+7 (963) 738-10-35</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://kaliningrad.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank">kaliningrad.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank">kaliningrad.ecolespb.ru</a></p>
 </div>
-<a href="https://kaliningrad.ecolespb.ru/cosmetology-school/programm-master_waxing" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/programm-master_waxing" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Мастер по депиляции" в стиле Топ1 конец -->
@@ -163,7 +163,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://kaliningrad.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -184,9 +184,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в рамках текущих предложений</p>
 <p><strong>📍 Адрес:</strong> Калининград, ул. Фрунзе, д. 107</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+79637381035">+7 (963) 738-10-35</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://kaliningrad.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank">kaliningrad.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank">kaliningrad.ecolespb.ru</a></p>
 </div>
-<a href="https://kaliningrad.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс этики и психологии общения с клиентом в косметологии" в стиле Топ1 конец -->
@@ -260,7 +260,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://kaliningrad.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -282,9 +282,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение при записи в кратчайшие сроки</p>
 <p><strong>📍 Адрес:</strong> г. Калининград, ул. Фрунзе, д. 107</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+79637381035">+7 (963) 738-10-35</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://kaliningrad.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank">kaliningrad.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank">kaliningrad.ecolespb.ru</a></p>
 </div>
-<a href="https://kaliningrad.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс повышения квалификации по всесезонным пилингам при работе с гиперпигментацией" в стиле Топ1 конец -->
@@ -358,7 +358,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://kaliningrad.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -380,9 +380,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в ближайшие дни.</p>
 <p><strong>📍 Адрес:</strong> Калининград, ул. Фрунзе, д. 107</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+79637381035">+7 (963) 738-10-35</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://kaliningrad.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank">kaliningrad.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/nutrition-courses&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank">kaliningrad.ecolespb.ru</a></p>
 </div>
-<a href="https://kaliningrad.ecolespb.ru/cosmetology-school/nutrition-courses" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/nutrition-courses&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/nutrition-courses" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс основы нутрициологии" в стиле Топ1 конец -->
@@ -451,7 +451,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://kaliningrad.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank" class="order-button">📘 На страницу курса</a> <!-- Конец кнопки: На страницу курса -->
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/nutrition-courses&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank" class="order-button">📘 На страницу курса</a> <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
 <!-- Конец разделителя -->
@@ -472,9 +472,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение сейчас.</p>
 <p><strong>📍 Адрес:</strong> г. Калининград, ул. Фрунзе 107</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74951234567">+7 (495) 123-45-67</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank">kaliningrad.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank">kaliningrad.ecolespb.ru</a></p>
 </div>
-<a href="https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курсы повышения квалификации по депиляции" в стиле Топ1 конец -->
@@ -548,7 +548,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -569,9 +569,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в данный период</p>
 <p><strong>📍 Адрес:</strong> г. Калининград, ул. Фрунзе, д. 107</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+79637381035">+7 (963) 738-10-35</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://kaliningrad.ecolespb.ru/cosmetology-school/upkeep" target="_blank">kaliningrad.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/upkeep&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/upkeep" target="_blank">kaliningrad.ecolespb.ru</a></p>
 </div>
-<a href="https://kaliningrad.ecolespb.ru/cosmetology-school/upkeep" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/upkeep&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/upkeep" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс эстетической косметологии" в стиле Топ1 конец -->
@@ -645,7 +645,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://kaliningrad.ecolespb.ru/cosmetology-school/upkeep" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/upkeep&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/upkeep" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -666,9 +666,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">более 40%</span> на период максимальных скидок</p>
 <p><strong>📍 Адрес:</strong> Калининград, ул. Фрунзе, д. 107</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+79637381035">+7 (963) 738-10-35</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank">kaliningrad.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank">kaliningrad.ecolespb.ru</a></p>
 </div>
-<a href="https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс депиляции" в стиле Топ1 конец -->
@@ -742,7 +742,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -764,9 +764,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в текущий период</p>
 <p><strong>📍 Адрес:</strong> г. Калининград, ул. Фрунзе, д. 107</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+79637381035">+7 (963) 738-10-35</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank">kaliningrad.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank">kaliningrad.ecolespb.ru</a></p>
 </div>
-<a href="https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс шугаринга" в стиле Топ1 конец -->
@@ -835,7 +835,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -856,9 +856,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение при записи</p>
 <p><strong>📍 Адрес:</strong> г. Калининград, ул. Фрунзе, д. 107</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+79637381035">+7 (963) 738-10-35</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://kaliningrad.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank">kaliningrad.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank">kaliningrad.ecolespb.ru</a></p>
 </div>
-<a href="https://kaliningrad.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Косметолог - эстетист" в стиле Топ1 конец -->
@@ -932,7 +932,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://kaliningrad.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -953,9 +953,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> при акционных предложениях</p>
 <p><strong>📍 Адрес:</strong> г. Калининград, ул. Фрунзе, д. 107</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+79012345678">+7 (901) 234-56-78</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://kaliningrad.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank">kaliningrad.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank">kaliningrad.ecolespb.ru</a></p>
 </div>
-<a href="https://kaliningrad.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Косметология SPA" в стиле Топ1 конец -->
@@ -1029,7 +1029,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://kaliningrad.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank" class="order-button">📘 На страницу курса</a> <!-- Конец кнопки -->
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank" class="order-button">📘 На страницу курса</a> <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
 <!-- Конец разделителя -->
@@ -1049,9 +1049,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">до 40%</span> на обучение в определенное время года.</p>
 <p><strong>📍 Адрес:</strong> г. Калининград, ул. Фрунзе, д. 107</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+79637381035">+7 (963) 738-10-35</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://kaliningrad.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank">kaliningrad.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank">kaliningrad.ecolespb.ru</a></p>
 </div>
-<a href="https://kaliningrad.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс аппаратной косметологии" в стиле Топ1 конец -->
@@ -1122,7 +1122,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://kaliningrad.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://kaliningrad.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://kaliningrad.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">

@@ -90,9 +90,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> для первых записавшихся.</p>
 <p><strong>📍 Адрес:</strong> г. Томск, ул. Трифонова, д. 20</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73822545450">+7 (3822) 54-54-50</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tomsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank">tomsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://tomsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank">tomsk.ecolespb.ru</a></p>
 </div>
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://tomsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс косметологии SPA" в стиле Топ1 конец -->
@@ -158,7 +158,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://tomsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -180,9 +180,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в период акций на обучение</p>
 <p><strong>📍 Адрес:</strong> г. Томск, ул. Трифонова, д. 20</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73822545450">+7 (3822) 54-54-50</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tomsk.ecolespb.ru/cosmetology-school/cosmetology" target="_blank">tomsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://tomsk.ecolespb.ru/cosmetology-school/cosmetology" target="_blank">tomsk.ecolespb.ru</a></p>
 </div>
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/cosmetology" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://tomsk.ecolespb.ru/cosmetology-school/cosmetology" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курсы дерматологии и анатомии лица" в стиле Топ1 конец -->
@@ -246,7 +246,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://tomsk.ecolespb.ru/cosmetology-school/cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -269,9 +269,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в период максимального сезона скидок</p>
 <p><strong>📍 Адрес:</strong> г. Томск, ул. Трифонова, д. 20</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73822545450">+7 (3822) 54-54-50</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tomsk.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank">tomsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://tomsk.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank">tomsk.ecolespb.ru</a></p>
 </div>
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/programm-master_waxing" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://tomsk.ecolespb.ru/cosmetology-school/programm-master_waxing" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Мастер по депиляции" в стиле Топ1 конец -->
@@ -340,7 +340,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://tomsk.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -361,9 +361,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в течение ограниченного времени</p>
 <p><strong>📍 Адрес:</strong> г. Томск, ул. Трифонова, д. 20</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73822545450">+7 (3822) 54-54-50</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank">tomsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank">tomsk.ecolespb.ru</a></p>
 </div>
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс депиляции" в стиле Топ1 конец -->
@@ -432,7 +432,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -453,9 +453,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение при записи сейчас</p>
 <p><strong>📍 Адрес:</strong> Томск, ул. Трифонова, д. 20</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73822545450">+7 (3822) 54-54-50</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank">tomsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank">tomsk.ecolespb.ru</a></p>
 </div>
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курсы повышения квалификации по депиляции" в стиле Топ1 конец -->
@@ -524,7 +524,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -545,9 +545,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в данный момент</p>
 <p><strong>📍 Адрес:</strong> г. Томск, ул. Трифонова, д. 20</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73822260051">+7 (3822) 26-00-51</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tomsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank">tomsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://tomsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank">tomsk.ecolespb.ru</a></p>
 </div>
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://tomsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс этики и психологии общения с клиентом в косметологии" в стиле Топ1 конец -->
@@ -621,7 +621,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://tomsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -643,9 +643,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в период ограниченных предложений</p>
 <p><strong>📍 Адрес:</strong> г. Томск, ул. Трифонова, д. 20</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73822545450">+7 (3822) 54-54-50</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tomsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank">tomsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://tomsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank">tomsk.ecolespb.ru</a></p>
 </div>
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://tomsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс повышения квалификации по всесезонным пилингам при работе с гиперпигментацией" в стиле Топ1 конец -->
@@ -719,7 +719,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://tomsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -740,9 +740,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в текущий период</p>
 <p><strong>📍 Адрес:</strong> г. Томск, ул. Трифонова, д. 20</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73822545450">+7 (3822) 54-54-50</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tomsk.ecolespb.ru/cosmetology-school/upkeep" target="_blank">tomsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/upkeep&sub1=https://tomsk.ecolespb.ru/cosmetology-school/upkeep" target="_blank">tomsk.ecolespb.ru</a></p>
 </div>
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/upkeep" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/upkeep&sub1=https://tomsk.ecolespb.ru/cosmetology-school/upkeep" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс эстетической косметологии" в стиле Топ1 конец -->
@@ -816,7 +816,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/upkeep" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/upkeep&sub1=https://tomsk.ecolespb.ru/cosmetology-school/upkeep" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -838,9 +838,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в данный период</p>
 <p><strong>📍 Адрес:</strong> г. Томск, ул. Трифонова, д. 20</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73822545450">+7 (3822) 54-54-50</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank">tomsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank">tomsk.ecolespb.ru</a></p>
 </div>
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс шугаринга" в стиле Топ1 конец -->
@@ -909,7 +909,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://tomsk.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -931,9 +931,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в определенные периоды</p>
 <p><strong>📍 Адрес:</strong> г. Томск, ул. Трифонова, д. 20</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73822545450">+7 (3822) 54-54-50</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tomsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank">tomsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://tomsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank">tomsk.ecolespb.ru</a></p>
 </div>
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://tomsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс аппаратной косметологии" в стиле Топ1 конец -->
@@ -1007,7 +1007,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://tomsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1029,9 +1029,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на время проведения распродажа</p>
 <p><strong>📍 Адрес:</strong> г. Томск, ул. Трифонова, д. 20</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73802260051">+7 (380) 226-00-51</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tomsk.ecolespb.ru/cosmetology-school/programm-uhod-za-telom" target="_blank">tomsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/programm-uhod-za-telom&sub1=https://tomsk.ecolespb.ru/cosmetology-school/programm-uhod-za-telom" target="_blank">tomsk.ecolespb.ru</a></p>
 </div>
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/programm-uhod-za-telom" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/programm-uhod-za-telom&sub1=https://tomsk.ecolespb.ru/cosmetology-school/programm-uhod-za-telom" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Косметик-эстетист по уходу за телом" в стиле Топ1 конец -->
@@ -1105,7 +1105,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/programm-uhod-za-telom" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/programm-uhod-za-telom&sub1=https://tomsk.ecolespb.ru/cosmetology-school/programm-uhod-za-telom" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1127,9 +1127,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в течение ограниченного времени.</p>
 <p><strong>📍 Адрес:</strong> г. Томск, ул. Трифонова, д. 20</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73822160051">+7 (3822) 216-00-51</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tomsk.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" target="_blank">tomsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/programm-uhod-za-licom&sub1=https://tomsk.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" target="_blank">tomsk.ecolespb.ru</a></p>
 </div>
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/programm-uhod-za-licom&sub1=https://tomsk.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Косметик-эстетист по уходу за лицом" в стиле Топ1 конец -->
@@ -1208,7 +1208,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/programm-uhod-za-licom&sub1=https://tomsk.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1229,9 +1229,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> актуально в течение ограниченного времени</p>
 <p><strong>📍 Адрес:</strong> г. Томск, ул. Трифонова, д. 20</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73822545450">+7 (3822) 54-54-50</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tomsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank">tomsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://tomsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank">tomsk.ecolespb.ru</a></p>
 </div>
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://tomsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Косметолог - эстетист (без мед. образования)" в стиле Топ1 конец -->
@@ -1307,7 +1307,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tomsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank" class="order-button">📘 На страницу курса</a> <!-- Конец кнопки -->
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tomsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://tomsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank" class="order-button">📘 На страницу курса</a> <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
 <!-- Конец разделителя -->

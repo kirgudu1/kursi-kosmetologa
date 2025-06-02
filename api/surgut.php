@@ -91,9 +91,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> с актуальной акцией</p>
 <p><strong>📍 Адрес:</strong> г. Сургут, ул. 30 лет Победы, д. 44б</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73846234567">+7 (3846) 234-56-7</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank">surgut.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank">surgut.ecolespb.ru</a></p>
 </div>
-<a href="https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс шугаринга" в стиле Топ1 конец -->
@@ -162,7 +162,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank" class="order-button">📘 На страницу курса</a> <!-- Конец кнопки -->
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank" class="order-button">📘 На страницу курса</a> <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
 <!-- Конец разделителя -->
@@ -183,9 +183,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> отмечена на обучение в данный период.</p>
 <p><strong>📍 Адрес:</strong> г. Сургут, ул. 30 лет Победы, д. 44б</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73462511449">+7 (3462) 51-14-49</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://surgut.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank">surgut.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/nutrition-courses&sub1=https://surgut.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank">surgut.ecolespb.ru</a></p>
 </div>
-<a href="https://surgut.ecolespb.ru/cosmetology-school/nutrition-courses" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/nutrition-courses&sub1=https://surgut.ecolespb.ru/cosmetology-school/nutrition-courses" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курсы основы нутрициологии" в стиле Топ1 конец -->
@@ -254,7 +254,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://surgut.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/nutrition-courses&sub1=https://surgut.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -276,9 +276,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> при быстрой записи</p>
 <p><strong>📍 Адрес:</strong> г. Сургут, ул. 30 лет Победы, 44б</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73462411449">+7 (3462) 51-14-49</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://surgut.ecolespb.ru/cosmetology-school/integrativ-nutrition" target="_blank">surgut.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/integrativ-nutrition&sub1=https://surgut.ecolespb.ru/cosmetology-school/integrativ-nutrition" target="_blank">surgut.ecolespb.ru</a></p>
 </div>
-<a href="https://surgut.ecolespb.ru/cosmetology-school/integrativ-nutrition" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/integrativ-nutrition&sub1=https://surgut.ecolespb.ru/cosmetology-school/integrativ-nutrition" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс интегративной нутрициологии" в стиле Топ1 конец -->
@@ -347,7 +347,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://surgut.ecolespb.ru/cosmetology-school/integrativ-nutrition" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/integrativ-nutrition&sub1=https://surgut.ecolespb.ru/cosmetology-school/integrativ-nutrition" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -368,9 +368,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> при записи на курс</p>
 <p><strong>📍 Адрес:</strong> ул. 30 лет Победы 44б, Сургут</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73462151449">+7 (3462) 51-14-49</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://surgut.ecolespb.ru/cosmetology-school/cosmetology" target="_blank">surgut.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://surgut.ecolespb.ru/cosmetology-school/cosmetology" target="_blank">surgut.ecolespb.ru</a></p>
 </div>
-<a href="https://surgut.ecolespb.ru/cosmetology-school/cosmetology" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://surgut.ecolespb.ru/cosmetology-school/cosmetology" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс дерматологии и анатомии лица" в стиле Топ1 конец -->
@@ -439,7 +439,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://surgut.ecolespb.ru/cosmetology-school/cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://surgut.ecolespb.ru/cosmetology-school/cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -460,9 +460,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в данный период</p>
 <p><strong>📍 Адрес:</strong> г. Сургут, ул. 30 лет Победы, 44б</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73462260000">+7 (3462) 51-14-49</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://surgut.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank">surgut.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://surgut.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank">surgut.ecolespb.ru</a></p>
 </div>
-<a href="https://surgut.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://surgut.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курсы этики и психологии общения с клиентом в косметологии" в стиле Топ1 конец -->
@@ -536,7 +536,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://surgut.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://surgut.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -557,9 +557,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в течение ограниченного времени.</p>
 <p><strong>📍 Адрес:</strong> г. Сургут, ул. 30 лет Победы, д. 44б</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73462151449">+7 (3462) 51-14-49</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://surgut.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank">surgut.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://surgut.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank">surgut.ecolespb.ru</a></p>
 </div>
-<a href="https://surgut.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://surgut.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс косметологии SPA" в стиле Топ1 конец -->
@@ -628,7 +628,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://surgut.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://surgut.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -650,9 +650,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в специальный период.</p>
 <p><strong>📍 Адрес:</strong> г. Сургут, ул. 30 лет Победы, д. 44б</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73462151449">+7 (3462) 51-14-49</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank">surgut.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank">surgut.ecolespb.ru</a></p>
 </div>
-<a href="https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс депиляции" в стиле Топ1 конец -->
@@ -721,7 +721,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -742,9 +742,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на ограниченное время</p>
 <p><strong>📍 Адрес:</strong> г. Сургут, ул. 30 лет Победы, д. 44б</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73462321149">+7 (3462) 51-14-49</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://surgut.ecolespb.ru/cosmetology-school/programm-nutriciolog" target="_blank">surgut.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/programm-nutriciolog&sub1=https://surgut.ecolespb.ru/cosmetology-school/programm-nutriciolog" target="_blank">surgut.ecolespb.ru</a></p>
 </div>
-<a href="https://surgut.ecolespb.ru/cosmetology-school/programm-nutriciolog" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/programm-nutriciolog&sub1=https://surgut.ecolespb.ru/cosmetology-school/programm-nutriciolog" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Нутрициолог" в стиле Топ1 конец -->
@@ -808,7 +808,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://surgut.ecolespb.ru/cosmetology-school/programm-nutriciolog" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/programm-nutriciolog&sub1=https://surgut.ecolespb.ru/cosmetology-school/programm-nutriciolog" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -830,9 +830,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в текущий период</p>
 <p><strong>📍 Адрес:</strong> ул. 30 лет Победы 44б, Сургут</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73462358641">+7 (3462) 51-14-49</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://surgut.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank">surgut.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://surgut.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank">surgut.ecolespb.ru</a></p>
 </div>
-<a href="https://surgut.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://surgut.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Косметолог - эстетист" в стиле Топ1 конец -->
@@ -911,7 +911,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://surgut.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://surgut.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -933,9 +933,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">36%</span> в рамках акций</p>
 <p><strong>📍 Адрес:</strong> г. Сургут, ул. 30 лет Победы, 44б</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73846260001">+7 (384) 626-00-01</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank">surgut.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank">surgut.ecolespb.ru</a></p>
 </div>
-<a href="https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курсы повышения квалификации по депиляции" в стиле Топ1 конец -->
@@ -1004,7 +1004,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://surgut.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1026,9 +1026,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в течение ограниченного времени.</p>
 <p><strong>📍 Адрес:</strong> г. Сургут, ул. 30 лет Победы, д. 44б</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73462351449">+7 (3462) 51-14-49</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://surgut.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank">surgut.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://surgut.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank">surgut.ecolespb.ru</a></p>
 </div>
-<a href="https://surgut.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://surgut.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс повышения квалификации по всесезонным пилингам" в стиле Топ1 конец -->
@@ -1102,7 +1102,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://surgut.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://surgut.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1124,9 +1124,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">более 40%</span> в зависимости от времени года</p>
 <p><strong>📍 Адрес:</strong> г. Сургут, ул. 30 лет Победы, д. 44б</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73462260051">+7 (3462) 51-14-49</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://surgut.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank">surgut.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://surgut.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank">surgut.ecolespb.ru</a></p>
 </div>
-<a href="https://surgut.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://surgut.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс аппаратной косметологии" в стиле Топ1 конец -->
@@ -1199,7 +1199,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://surgut.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://surgut.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1221,9 +1221,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в период акций на обучение</p>
 <p><strong>📍 Адрес:</strong> г. Сургут, ул. 30 лет Победы, д. 44б</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73462511449">+7 (3462) 51-14-49</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://surgut.ecolespb.ru/cosmetology-school/upkeep" target="_blank">surgut.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/upkeep&sub1=https://surgut.ecolespb.ru/cosmetology-school/upkeep" target="_blank">surgut.ecolespb.ru</a></p>
 </div>
-<a href="https://surgut.ecolespb.ru/cosmetology-school/upkeep" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/upkeep&sub1=https://surgut.ecolespb.ru/cosmetology-school/upkeep" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс эстетической косметологии" в стиле Топ1 конец -->
@@ -1302,7 +1302,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://surgut.ecolespb.ru/cosmetology-school/upkeep" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://surgut.ecolespb.ru/cosmetology-school/upkeep&sub1=https://surgut.ecolespb.ru/cosmetology-school/upkeep" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">

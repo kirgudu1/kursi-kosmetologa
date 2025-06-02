@@ -91,9 +91,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в период акций</p>
 <p><strong>📍 Адрес:</strong> г. Тюмень, ул. Республики, д. 157/1</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73452575995">+7 (3452) 575-995</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank">tumen.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank">tumen.ecolespb.ru</a></p>
 </div>
-<a href="https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курсы шугаринга" в стиле Топ1 конец -->
@@ -157,7 +157,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -179,9 +179,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> доступна на время акций</p>
 <p><strong>📍 Адрес:</strong> г. Тюмень, ул. Республики, д. 157/1</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73852345678">+7 (3852) 34-56-78</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tumen.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank">tumen.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://tumen.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank">tumen.ecolespb.ru</a></p>
 </div>
-<a href="https://tumen.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://tumen.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс косметологии SPA" в стиле Топ1 конец -->
@@ -250,7 +250,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tumen.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://tumen.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -271,9 +271,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в течение ограниченного времени</p>
 <p><strong>📍 Адрес:</strong> г. Тюмень, ул. Республики 157/1</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73452575995">+7 (3452) 575-995</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tumen.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank">tumen.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://tumen.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank">tumen.ecolespb.ru</a></p>
 </div>
-<a href="https://tumen.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://tumen.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс аппаратной косметологии" в стиле Топ1 конец -->
@@ -352,7 +352,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tumen.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://tumen.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -373,9 +373,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в текущий период акций</p>
 <p><strong>📍 Адрес:</strong> г. Тюмень, ул. Республики, д. 157/1</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73452575995">+7 (3452) 575-995</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank">tumen.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank">tumen.ecolespb.ru</a></p>
 </div>
-<a href="https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс депиляции воском" в стиле Топ1 конец -->
@@ -439,7 +439,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -461,9 +461,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> ограниченное время</p>
 <p><strong>📍 Адрес:</strong> г. Тюмень, ул. Республики, д. 157/1</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73822260051">+7 (3822) 260-05-1</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tumen.ecolespb.ru/cosmetology-school/programm-uhod-za-telom" target="_blank">tumen.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/programm-uhod-za-telom&sub1=https://tumen.ecolespb.ru/cosmetology-school/programm-uhod-za-telom" target="_blank">tumen.ecolespb.ru</a></p>
 </div>
-<a href="https://tumen.ecolespb.ru/cosmetology-school/programm-uhod-za-telom" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/programm-uhod-za-telom&sub1=https://tumen.ecolespb.ru/cosmetology-school/programm-uhod-za-telom" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Косметик-эстетист по уходу за телом" в стиле Топ1 конец -->
@@ -537,7 +537,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tumen.ecolespb.ru/cosmetology-school/programm-uhod-za-telom" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/programm-uhod-za-telom&sub1=https://tumen.ecolespb.ru/cosmetology-school/programm-uhod-za-telom" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -559,9 +559,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в период специальных предложений</p>
 <p><strong>📍 Адрес:</strong> г. Тюмень, ул. Республики, д. 157/1</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73452575995">+7 (3452) 575-995</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tumen.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank">tumen.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://tumen.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank">tumen.ecolespb.ru</a></p>
 </div>
-<a href="https://tumen.ecolespb.ru/cosmetology-school/programm-master_waxing" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://tumen.ecolespb.ru/cosmetology-school/programm-master_waxing" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Мастер по депиляции" в стиле Топ1 конец -->
@@ -630,7 +630,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tumen.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://tumen.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -651,9 +651,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в данный момент</p>
 <p><strong>📍 Адрес:</strong> г. Тюмень, ул. Республики, д. 157/1</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73452575995">+7 (3452) 575-995</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tumen.ecolespb.ru/cosmetology-school/cosmetology" target="_blank">tumen.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://tumen.ecolespb.ru/cosmetology-school/cosmetology" target="_blank">tumen.ecolespb.ru</a></p>
 </div>
-<a href="https://tumen.ecolespb.ru/cosmetology-school/cosmetology" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://tumen.ecolespb.ru/cosmetology-school/cosmetology" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс дерматологии и анатомии лица" в стиле Топ1 конец -->
@@ -721,7 +721,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tumen.ecolespb.ru/cosmetology-school/cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://tumen.ecolespb.ru/cosmetology-school/cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -742,9 +742,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение при регистрации сейчас</p>
 <p><strong>📍 Адрес:</strong> г. Тюмень, ул. Республики, д. 157/1</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73452575995">+7 (3452) 575-995</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tumen.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank">tumen.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://tumen.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank">tumen.ecolespb.ru</a></p>
 </div>
-<a href="https://tumen.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://tumen.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Косметолог - эстетист" в стиле Топ1 конец -->
@@ -820,7 +820,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tumen.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://tumen.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -841,9 +841,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> при регистрации на курс</p>
 <p><strong>📍 Адрес:</strong> г. Тюмень, ул. Республики 157/1</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73812255667">+7 (3812) 255-667</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tumen.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank">tumen.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://tumen.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank">tumen.ecolespb.ru</a></p>
 </div>
-<a href="https://tumen.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://tumen.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс этики и психологии общения с клиентом" в стиле Топ1 конец -->
@@ -917,7 +917,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tumen.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://tumen.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -939,9 +939,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в течение ограниченного времени.</p>
 <p><strong>📍 Адрес:</strong> г. Тюмень, ул. Республики 157/1</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73452575995">+7 (3452) 575-995</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tumen.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank">tumen.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://tumen.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank">tumen.ecolespb.ru</a></p>
 </div>
-<a href="https://tumen.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://tumen.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс повышения квалификации по всесезонным пилингам при работе с гиперпигментацией" в стиле Топ1 конец -->
@@ -1015,7 +1015,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tumen.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://tumen.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1036,9 +1036,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">более 40%</span> в течение ограниченного времени</p>
 <p><strong>📍 Адрес:</strong> г. Тюмень, ул. Республики 157/1</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73452575995">+7 (3452) 575-995</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tumen.ecolespb.ru/cosmetology-school/upkeep" target="_blank">tumen.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/upkeep&sub1=https://tumen.ecolespb.ru/cosmetology-school/upkeep" target="_blank">tumen.ecolespb.ru</a></p>
 </div>
-<a href="https://tumen.ecolespb.ru/cosmetology-school/upkeep" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/upkeep&sub1=https://tumen.ecolespb.ru/cosmetology-school/upkeep" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс эстетической косметологии" в стиле Топ1 конец -->
@@ -1117,7 +1117,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tumen.ecolespb.ru/cosmetology-school/upkeep" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/upkeep&sub1=https://tumen.ecolespb.ru/cosmetology-school/upkeep" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1139,9 +1139,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в ограниченный период</p>
 <p><strong>📍 Адрес:</strong> г. Тюмень, ул. Республики, 157/1</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73852285000">+7 (3852) 285-000</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tumen.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank">tumen.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/nutrition-courses&sub1=https://tumen.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank">tumen.ecolespb.ru</a></p>
 </div>
-<a href="https://tumen.ecolespb.ru/cosmetology-school/nutrition-courses" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/nutrition-courses&sub1=https://tumen.ecolespb.ru/cosmetology-school/nutrition-courses" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс основы нутрициологии" в стиле Топ1 конец -->
@@ -1210,7 +1210,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tumen.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/nutrition-courses&sub1=https://tumen.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1232,9 +1232,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">41%</span> в актуальный момент времени.</p>
 <p><strong>📍 Адрес:</strong> г. Тюмень, ул. Республики, д. 157/1</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73452575995">+7 (3452) 575-995</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank">tumen.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank">tumen.ecolespb.ru</a></p>
 </div>
-<a href="https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курсы повышения квалификации по депиляции" в стиле Топ1 конец -->
@@ -1308,7 +1308,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://tumen.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1329,9 +1329,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в текущий период</p>
 <p><strong>📍 Адрес:</strong> г. Тюмень, ул. Республики, д. 157/1</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73452575995">+7 (3452) 575-995</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://tumen.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" target="_blank">tumen.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/programm-uhod-za-licom&sub1=https://tumen.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" target="_blank">tumen.ecolespb.ru</a></p>
 </div>
-<a href="https://tumen.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/programm-uhod-za-licom&sub1=https://tumen.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Косметик-эстетист по уходу за лицом" в стиле Топ1 конец -->
@@ -1405,7 +1405,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://tumen.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" target="_blank" class="order-button">📘 На страницу курса</a> <!-- Конец кнопки -->
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://tumen.ecolespb.ru/cosmetology-school/programm-uhod-za-licom&sub1=https://tumen.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" target="_blank" class="order-button">📘 На страницу курса</a> <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
 <!-- Конец разделителя -->

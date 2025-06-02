@@ -91,9 +91,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">более 40%</span> в текущий период акции</p>
 <p><strong>📍 Адрес:</strong> г. Саратов, ул. Н. Г. Чернышевского, д. 89</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78452339564">+7 (8452) 33-95-64</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank">saratov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank">saratov.ecolespb.ru</a></p>
 </div>
-<a href="https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс шугаринга" в стиле Топ1 конец -->
@@ -162,7 +162,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -183,9 +183,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в рамке нашего специального предложения.</p>
 <p><strong>📍 Адрес:</strong> г. Саратов, ул. Н. Г. Чернышевского, д. 89</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78452339564">+7 (8452) 33-95-64</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://saratov.ecolespb.ru/cosmetology-school/integrativ-nutrition" target="_blank">saratov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/integrativ-nutrition&sub1=https://saratov.ecolespb.ru/cosmetology-school/integrativ-nutrition" target="_blank">saratov.ecolespb.ru</a></p>
 </div>
-<a href="https://saratov.ecolespb.ru/cosmetology-school/integrativ-nutrition" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/integrativ-nutrition&sub1=https://saratov.ecolespb.ru/cosmetology-school/integrativ-nutrition" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курсы интегративной нутрициологии" в стиле Топ1 конец -->
@@ -259,7 +259,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://saratov.ecolespb.ru/cosmetology-school/integrativ-nutrition" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/integrativ-nutrition&sub1=https://saratov.ecolespb.ru/cosmetology-school/integrativ-nutrition" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -280,9 +280,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">42%</span> на обучение при акциях и распродажах</p>
 <p><strong>📍 Адрес:</strong> Саратов, ул. Н. Г. Чернышевского, д. 89</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78452339564">+7 (8452) 33-95-64</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://saratov.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank">saratov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://saratov.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank">saratov.ecolespb.ru</a></p>
 </div>
-<a href="https://saratov.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://saratov.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курсы аппаратной косметологии" в стиле Топ1 конец -->
@@ -351,7 +351,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://saratov.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://saratov.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -373,9 +373,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в период максимальных акций</p>
 <p><strong>📍 Адрес:</strong> г. Саратов, ул. Н. Г. Чернышевского, д. 89</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78452339564">+7 (8452) 33-95-64</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://saratov.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank">saratov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://saratov.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank">saratov.ecolespb.ru</a></p>
 </div>
-<a href="https://saratov.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://saratov.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс косметологии SPA" в стиле Топ1 конец -->
@@ -443,7 +443,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://saratov.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://saratov.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -465,9 +465,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в течение акции</p>
 <p><strong>📍 Адрес:</strong> г. Саратов, ул. Н. Г. Чернышевского, д. 89</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78452339564">+7 (8452) 33-95-64</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://saratov.ecolespb.ru/cosmetology-school/programm-nutriciolog" target="_blank">saratov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/programm-nutriciolog&sub1=https://saratov.ecolespb.ru/cosmetology-school/programm-nutriciolog" target="_blank">saratov.ecolespb.ru</a></p>
 </div>
-<a href="https://saratov.ecolespb.ru/cosmetology-school/programm-nutriciolog" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/programm-nutriciolog&sub1=https://saratov.ecolespb.ru/cosmetology-school/programm-nutriciolog" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Нутрициолог" в стиле Топ1 конец -->
@@ -531,7 +531,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://saratov.ecolespb.ru/cosmetology-school/programm-nutriciolog" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/programm-nutriciolog&sub1=https://saratov.ecolespb.ru/cosmetology-school/programm-nutriciolog" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -552,9 +552,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в период акций</p>
 <p><strong>📍 Адрес:</strong> г. Саратов, ул. Н. Г. Чернышевского, д. 89</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78452545007">+7 (8452) 54-50-07</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://saratov.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank">saratov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://saratov.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank">saratov.ecolespb.ru</a></p>
 </div>
-<a href="https://saratov.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://saratov.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс этики и психологии общения с клиентом в косметологии" в стиле Топ1 конец -->
@@ -624,7 +624,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://saratov.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://saratov.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -645,9 +645,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">41%</span> на обучение в текущий период</p>
 <p><strong>📍 Адрес:</strong> г. Саратов, ул. Н. Г. Чернышевского, д. 89</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78452339564">+7 (8452) 33-95-64</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://saratov.ecolespb.ru/cosmetology-school/cosmetology" target="_blank">saratov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://saratov.ecolespb.ru/cosmetology-school/cosmetology" target="_blank">saratov.ecolespb.ru</a></p>
 </div>
-<a href="https://saratov.ecolespb.ru/cosmetology-school/cosmetology" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://saratov.ecolespb.ru/cosmetology-school/cosmetology" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс дерматологии и анатомии лица" в стиле Топ1 конец -->
@@ -716,7 +716,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://saratov.ecolespb.ru/cosmetology-school/cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://saratov.ecolespb.ru/cosmetology-school/cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -738,9 +738,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в течение ограниченного времени.</p>
 <p><strong>📍 Адрес:</strong> Саратов, ул. Н. Г. Чернышевского, д. 89</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78452339564">+7 (8452) 33-95-64</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://saratov.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank">saratov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://saratov.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank">saratov.ecolespb.ru</a></p>
 </div>
-<a href="https://saratov.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://saratov.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Косметолог - эстетист" в стиле Топ1 конец -->
@@ -816,7 +816,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://saratov.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://saratov.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -837,9 +837,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">набор на курс со скидкой</span> доступен при записи в ближайшие сроки.</p>
 <p><strong>📍 Адрес:</strong> г. Саратов, ул. Н. Г. Чернышевского, д. 89</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78452339564">+7 (8452) 33-95-64</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank">saratov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank">saratov.ecolespb.ru</a></p>
 </div>
-<a href="https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курсы повышения квалификации по депиляции" в стиле Топ1 конец -->
@@ -913,7 +913,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -935,9 +935,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в рамках специального предложения</p>
 <p><strong>📍 Адрес:</strong> Саратов, ул. Н. Г. Чернышевского, д. 89</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78452339564">+7 (8452) 33-95-64</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank">saratov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank">saratov.ecolespb.ru</a></p>
 </div>
-<a href="https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс депиляции" в стиле Топ1 конец -->
@@ -1006,7 +1006,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://saratov.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1028,9 +1028,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в рамках акции на обучение</p>
 <p><strong>📍 Адрес:</strong> Саратов, ул. Н. Г. Чернышевского, д. 89</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78452339564">+7 (8452) 33-95-64</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://saratov.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" target="_blank">saratov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/programm-uhod-za-licom&sub1=https://saratov.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" target="_blank">saratov.ecolespb.ru</a></p>
 </div>
-<a href="https://saratov.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/programm-uhod-za-licom&sub1=https://saratov.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Косметик-эстетист по уходу за лицом" в стиле Топ1 конец -->
@@ -1104,7 +1104,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://saratov.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/programm-uhod-za-licom&sub1=https://saratov.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1125,9 +1125,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">42%</span> в диапазоне текущих предложений</p>
 <p><strong>📍 Адрес:</strong> Саратов, ул. Н. Г. Чернышевского, д. 89</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78452339564">+7 (8452) 33-95-64</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://saratov.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank">saratov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/nutrition-courses&sub1=https://saratov.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank">saratov.ecolespb.ru</a></p>
 </div>
-<a href="https://saratov.ecolespb.ru/cosmetology-school/nutrition-courses" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/nutrition-courses&sub1=https://saratov.ecolespb.ru/cosmetology-school/nutrition-courses" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс основы нутрициологии" в стиле Топ1 конец -->
@@ -1193,7 +1193,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://saratov.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/nutrition-courses&sub1=https://saratov.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1214,9 +1214,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> при наличии специальных предложений</p>
 <p><strong>📍 Адрес:</strong> г. Саратов, ул. Н. Г. Чернышевского, д. 89</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78452339564">+7 (8452) 33-95-64</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://saratov.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank">saratov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://saratov.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank">saratov.ecolespb.ru</a></p>
 </div>
-<a href="https://saratov.ecolespb.ru/cosmetology-school/programm-master_waxing" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://saratov.ecolespb.ru/cosmetology-school/programm-master_waxing" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Мастер по депиляции" в стиле Топ1 конец -->
@@ -1290,7 +1290,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://saratov.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://saratov.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1312,9 +1312,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в период проведения акций</p>
 <p><strong>📍 Адрес:</strong> Саратов, ул. Н. Г. Чернышевского, д. 89</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78452339564">+7 (8452) 33-95-64</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://saratov.ecolespb.ru/cosmetology-school/upkeep" target="_blank">saratov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/upkeep&sub1=https://saratov.ecolespb.ru/cosmetology-school/upkeep" target="_blank">saratov.ecolespb.ru</a></p>
 </div>
-<a href="https://saratov.ecolespb.ru/cosmetology-school/upkeep" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/upkeep&sub1=https://saratov.ecolespb.ru/cosmetology-school/upkeep" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курсы эстетической косметологии" в стиле Топ1 конец -->
@@ -1388,7 +1388,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://saratov.ecolespb.ru/cosmetology-school/upkeep" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/upkeep&sub1=https://saratov.ecolespb.ru/cosmetology-school/upkeep" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1410,9 +1410,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в рамках текущих акций</p>
 <p><strong>📍 Адрес:</strong> г. Саратов, ул. Н. Г. Чернышевского, д. 89</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78452339564">+7 (8452) 33-95-64</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://saratov.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank">saratov.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://saratov.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank">saratov.ecolespb.ru</a></p>
 </div>
-<a href="https://saratov.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://saratov.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс повышения квалификации по всесезонным пилингам при работе с гиперпигментацией" в стиле Топ1 конец -->
@@ -1486,7 +1486,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://saratov.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://saratov.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://saratov.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">

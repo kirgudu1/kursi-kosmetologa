@@ -90,9 +90,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> – специальное предложение на обучение!</p>
 <p><strong>📍 Адрес:</strong> г. Омск, ул. Масленникова, д. 28</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73812345678">+7 (381) 234-56-78</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://omsk.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank">omsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://omsk.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank">omsk.ecolespb.ru</a></p>
 </div>
-<a href="https://omsk.ecolespb.ru/cosmetology-school/programm-master_waxing" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://omsk.ecolespb.ru/cosmetology-school/programm-master_waxing" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Мастер по депиляции" в стиле Топ1 конец -->
@@ -161,7 +161,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://omsk.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://omsk.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -183,9 +183,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение сейчас!</p>
 <p><strong>📍 Адрес:</strong> г. Омск, ул. Масленникова, д. 28</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73812678197">+7 (3812) 67-81-97</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://omsk.ecolespb.ru/cosmetology-school/upkeep" target="_blank">omsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/upkeep&sub1=https://omsk.ecolespb.ru/cosmetology-school/upkeep" target="_blank">omsk.ecolespb.ru</a></p>
 </div>
-<a href="https://omsk.ecolespb.ru/cosmetology-school/upkeep" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/upkeep&sub1=https://omsk.ecolespb.ru/cosmetology-school/upkeep" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс эстетической косметологии" в стиле Топ1 конец -->
@@ -254,7 +254,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://omsk.ecolespb.ru/cosmetology-school/upkeep" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/upkeep&sub1=https://omsk.ecolespb.ru/cosmetology-school/upkeep" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -276,9 +276,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> во время акции на обучение</p>
 <p><strong>📍 Адрес:</strong> г. Омск, ул. Масленникова, д. 28</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73812678197">+7 (3812) 67-81-97</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://omsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank">omsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://omsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank">omsk.ecolespb.ru</a></p>
 </div>
-<a href="https://omsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://omsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Косметолог - эстетист" в стиле Топ1 конец -->
@@ -357,7 +357,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://omsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://omsk.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -378,9 +378,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> привлекательное предложение для желающих начать карьеру в индустрии красоты.</p>
 <p><strong>📍 Адрес:</strong> г. Омск, ул. Масленникова, д. 28</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73812678197">+7 (3812) 67-81-97</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank">omsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank">omsk.ecolespb.ru</a></p>
 </div>
-<a href="https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс шугаринга" в стиле Топ1 конец -->
@@ -444,7 +444,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -465,9 +465,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на ограниченный период времени</p>
 <p><strong>📍 Адрес:</strong> г. Омск, ул. Масленникова, д. 28</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73812678197">+7 (3812) 67-81-97</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank">omsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank">omsk.ecolespb.ru</a></p>
 </div>
-<a href="https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курсы депиляции" в стиле Топ1 конец -->
@@ -536,7 +536,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -557,9 +557,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в ограниченный период</p>
 <p><strong>📍 Адрес:</strong> г. Омск, ул. Масленникова, д. 28</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73812678197">+7 (3812) 67-81-97</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://omsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank">omsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://omsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank">omsk.ecolespb.ru</a></p>
 </div>
-<a href="https://omsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://omsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс повышения квалификации по всесезонным пилингам при работе с гиперпигментацией" в стиле Топ1 конец -->
@@ -625,7 +625,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://omsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://omsk.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -646,9 +646,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в момент действия актуальных акций</p>
 <p><strong>📍 Адрес:</strong> г. Омск, ул. Масленникова, д. 28</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73812560050">+7 (381) 256-00-50</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://omsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank">omsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://omsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank">omsk.ecolespb.ru</a></p>
 </div>
-<a href="https://omsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://omsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс косметологии SPA" в стиле Топ1 конец -->
@@ -714,7 +714,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://omsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://omsk.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -735,9 +735,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в ограниченные сроки</p>
 <p><strong>📍 Адрес:</strong> Омск, ул. Масленникова, д. 28</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73812678197">+7 (3812) 67-81-97</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://omsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank">omsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://omsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank">omsk.ecolespb.ru</a></p>
 </div>
-<a href="https://omsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://omsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс аппаратной косметологии" в стиле Топ1 конец -->
@@ -811,7 +811,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://omsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://omsk.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -833,9 +833,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в течение ограниченного времени</p>
 <p><strong>📍 Адрес:</strong> ул. Масленникова, д. 28, Омск</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73812453245">+7 (381) 245-32-45</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://omsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank">omsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://omsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank">omsk.ecolespb.ru</a></p>
 </div>
-<a href="https://omsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://omsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс этики и психологии общения с клиентом в косметологии" в стиле Топ1 конец -->
@@ -909,7 +909,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://omsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://omsk.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -930,9 +930,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в период специальных акций</p>
 <p><strong>📍 Адрес:</strong> г. Омск, ул. Масленникова, д. 28</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73812678197">+7 (3812) 67-81-97</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://omsk.ecolespb.ru/cosmetology-school/programm-uhod-za-telom" target="_blank">omsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/programm-uhod-za-telom&sub1=https://omsk.ecolespb.ru/cosmetology-school/programm-uhod-za-telom" target="_blank">omsk.ecolespb.ru</a></p>
 </div>
-<a href="https://omsk.ecolespb.ru/cosmetology-school/programm-uhod-za-telom" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/programm-uhod-za-telom&sub1=https://omsk.ecolespb.ru/cosmetology-school/programm-uhod-za-telom" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Косметик-эстетист по уходу за телом" в стиле Топ1 конец -->
@@ -1006,7 +1006,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://omsk.ecolespb.ru/cosmetology-school/programm-uhod-za-telom" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/programm-uhod-za-telom&sub1=https://omsk.ecolespb.ru/cosmetology-school/programm-uhod-za-telom" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1028,9 +1028,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">до 40%</span> при действующих акциях.</p>
 <p><strong>📍 Адрес:</strong> г. Омск, ул. Масленникова, д. 28</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73812567890">+7 (381) 256-78-90</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank">omsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank">omsk.ecolespb.ru</a></p>
 </div>
-<a href="https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курсы повышения квалификации по депиляции" в стиле Топ1 конец -->
@@ -1099,7 +1099,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank" class="order-button">📘 На страницу курса</a> <!-- Конец кнопки -->
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://omsk.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank" class="order-button">📘 На страницу курса</a> <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
 <!-- Конец разделителя -->
@@ -1119,9 +1119,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в течение ограниченного времени</p>
 <p><strong>📍 Адрес:</strong> г. Омск, ул. Масленникова, д. 28</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73812678197">+7 (3812) 67-81-97</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://omsk.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" target="_blank">omsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/programm-uhod-za-licom&sub1=https://omsk.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" target="_blank">omsk.ecolespb.ru</a></p>
 </div>
-<a href="https://omsk.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/programm-uhod-za-licom&sub1=https://omsk.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Косметик-эстетист по уходу за лицом" в стиле Топ1 конец -->
@@ -1200,7 +1200,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://omsk.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/programm-uhod-za-licom&sub1=https://omsk.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1221,9 +1221,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">20%</span> на данном этапе продаж</p>
 <p><strong>📍 Адрес:</strong> г. Омск, ул. Масленникова, д. 28</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73812678197">+7 (3812) 67-81-97</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://omsk.ecolespb.ru/cosmetology-school/cosmetology" target="_blank">omsk.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://omsk.ecolespb.ru/cosmetology-school/cosmetology" target="_blank">omsk.ecolespb.ru</a></p>
 </div>
-<a href="https://omsk.ecolespb.ru/cosmetology-school/cosmetology" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://omsk.ecolespb.ru/cosmetology-school/cosmetology" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс дерматологии и анатомии лица" в стиле Топ1 конец -->
@@ -1287,7 +1287,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://omsk.ecolespb.ru/cosmetology-school/cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://omsk.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://omsk.ecolespb.ru/cosmetology-school/cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">

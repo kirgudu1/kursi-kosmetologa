@@ -90,9 +90,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в течение ограниченного времени</p>
 <p><strong>📍 Адрес:</strong> Ставрополь, проспект Кулакова, д. 5/3</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78652349190">+7 (8652) 34-91-90</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://stavropol.ecolespb.ru/cosmetology-school/upkeep" target="_blank">stavropol.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/upkeep&sub1=https://stavropol.ecolespb.ru/cosmetology-school/upkeep" target="_blank">stavropol.ecolespb.ru</a></p>
 </div>
-<a href="https://stavropol.ecolespb.ru/cosmetology-school/upkeep" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/upkeep&sub1=https://stavropol.ecolespb.ru/cosmetology-school/upkeep" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс эстетической косметологии" в стиле Топ1 конец -->
@@ -158,7 +158,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://stavropol.ecolespb.ru/cosmetology-school/upkeep" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/upkeep&sub1=https://stavropol.ecolespb.ru/cosmetology-school/upkeep" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -180,9 +180,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в рамках специальных предложений</p>
 <p><strong>📍 Адрес:</strong> г. Ставрополь, проспект Кулакова, д. 5/3</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+79001234567">+7 (900) 123-45-67</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://stavropol.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank">stavropol.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://stavropol.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank">stavropol.ecolespb.ru</a></p>
 </div>
-<a href="https://stavropol.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://stavropol.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курсы этики и психологии общения с клиентом в косметологии" в стиле Топ1 конец -->
@@ -256,7 +256,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://stavropol.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://stavropol.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -277,9 +277,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение при записи до окончания периода акций.</p>
 <p><strong>📍 Адрес:</strong> г. Ставрополь, проспект Кулакова, д. 5/3</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78652349190">+7 (8652) 34-91-90</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank">stavropol.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank">stavropol.ecolespb.ru</a></p>
 </div>
-<a href="https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс шугаринга" в стиле Топ1 конец -->
@@ -348,7 +348,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -370,9 +370,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> при записи в течение ограниченного времени.</p>
 <p><strong>📍 Адрес:</strong> г. Ставрополь, проспект Кулакова, д. 5/3</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78652349190">+7 (8652) 34-91-90</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://stavropol.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank">stavropol.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://stavropol.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank">stavropol.ecolespb.ru</a></p>
 </div>
-<a href="https://stavropol.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://stavropol.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс косметологии SPA" в стиле Топ1 конец -->
@@ -441,7 +441,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://stavropol.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://stavropol.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -463,9 +463,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в ограниченный период</p>
 <p><strong>📍 Адрес:</strong> г. Ставрополь, проспект Кулакова, д. 5/3</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78652349190">+7 (8652) 34-91-90</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://stavropol.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank">stavropol.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://stavropol.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank">stavropol.ecolespb.ru</a></p>
 </div>
-<a href="https://stavropol.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://stavropol.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс аппаратной косметологии" в стиле Топ1 конец -->
@@ -534,7 +534,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://stavropol.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://stavropol.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -556,9 +556,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на данный курс в ограниченное время</p>
 <p><strong>📍 Адрес:</strong> г. Ставрополь, проспект Кулакова, 5/3</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+79999999999">+7 (999) 999-99-99</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://stavropol.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank">stavropol.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/nutrition-courses&sub1=https://stavropol.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank">stavropol.ecolespb.ru</a></p>
 </div>
-<a href="https://stavropol.ecolespb.ru/cosmetology-school/nutrition-courses" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/nutrition-courses&sub1=https://stavropol.ecolespb.ru/cosmetology-school/nutrition-courses" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс основы нутрициологии" в стиле Топ1 конец -->
@@ -627,7 +627,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://stavropol.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/nutrition-courses&sub1=https://stavropol.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -649,9 +649,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> при действующих акциях</p>
 <p><strong>📍 Адрес:</strong> г. Ставрополь, проспект Кулакова, д. 5/3</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+79212260051">+7 (921) 226-00-51</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank">stavropol.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank">stavropol.ecolespb.ru</a></p>
 </div>
-<a href="https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курсы повышения квалификации по депиляции" в стиле Топ1 конец -->
@@ -725,7 +725,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -746,9 +746,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в текущий период</p>
 <p><strong>📍 Адрес:</strong> г. Ставрополь, пр. Кулакова, д. 5/3</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78652349190">+7 (8652) 34-91-90</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank">stavropol.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank">stavropol.ecolespb.ru</a></p>
 </div>
-<a href="https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс депиляции воском" в стиле Топ1 конец -->
@@ -817,7 +817,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://stavropol.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -839,9 +839,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение, действует сейчас</p>
 <p><strong>📍 Адрес:</strong> Ставрополь, проспект Кулакова, 5/3</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78652349190">+7 (8652) 34-91-90</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://stavropol.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank">stavropol.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://stavropol.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank">stavropol.ecolespb.ru</a></p>
 </div>
-<a href="https://stavropol.ecolespb.ru/cosmetology-school/programm-master_waxing" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://stavropol.ecolespb.ru/cosmetology-school/programm-master_waxing" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Мастер по депиляции" в стиле Топ1 конец -->
@@ -910,7 +910,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://stavropol.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://stavropol.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -932,9 +932,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение</p>
 <p><strong>📍 Адрес:</strong> г. Ставрополь, пр. Кулакова, д. 5/3</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78652349190">+7 (8652) 34-91-90</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://stavropol.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank">stavropol.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://stavropol.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank">stavropol.ecolespb.ru</a></p>
 </div>
-<a href="https://stavropol.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://stavropol.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс повышения квалификации по всесезонным пилингам при работе с гиперпигментацией" в стиле Топ1 конец -->
@@ -1008,7 +1008,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://stavropol.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://stavropol.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1030,9 +1030,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение</p>
 <p><strong>📍 Адрес:</strong> г. Ставрополь, проспект Кулакова 5/3</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78652349190">+7 (8652) 34-91-90</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://stavropol.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank">stavropol.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://stavropol.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank">stavropol.ecolespb.ru</a></p>
 </div>
-<a href="https://stavropol.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://stavropol.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Косметолог - эстетист (без мед. образования)" в стиле Топ1 конец -->
@@ -1111,7 +1111,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://stavropol.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://stavropol.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://stavropol.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">

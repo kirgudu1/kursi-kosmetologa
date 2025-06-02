@@ -91,9 +91,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение.</p>
 <p><strong>📍 Адрес:</strong> г. Уфа, ул. Чернышевского, д. 104</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73472001112">+7 (347) 200-11-12</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://ufa.ecolespb.ru/cosmetology-school/cosmetology" target="_blank">ufa.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://ufa.ecolespb.ru/cosmetology-school/cosmetology" target="_blank">ufa.ecolespb.ru</a></p>
 </div>
-<a href="https://ufa.ecolespb.ru/cosmetology-school/cosmetology" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://ufa.ecolespb.ru/cosmetology-school/cosmetology" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс дерматологии и анатомии лица" в стиле Топ1 конец -->
@@ -157,7 +157,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://ufa.ecolespb.ru/cosmetology-school/cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://ufa.ecolespb.ru/cosmetology-school/cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -178,9 +178,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на текущий период.</p>
 <p><strong>📍 Адрес:</strong> г. Уфа, ул. Чернышевского, д. 104</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73472001112">+7 (347) 200-11-12</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank">ufa.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank">ufa.ecolespb.ru</a></p>
 </div>
-<a href="https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курсы депиляции" в стиле Топ1 конец -->
@@ -249,7 +249,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -270,9 +270,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">первоначальная стоимость снижена на 40%</span> в свободные даты.</p>
 <p><strong>📍 Адрес:</strong> г. Уфа, ул. Чернышевского, д. 104</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73472001112">+7 (347) 200-11-12</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank">ufa.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank">ufa.ecolespb.ru</a></p>
 </div>
-<a href="https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курсы повышения квалификации по депиляции" в стиле Топ1 конец -->
@@ -346,7 +346,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -369,9 +369,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение</p>
 <p><strong>📍 Адрес:</strong> г. Уфа, ул. Чернышевского, д. 104</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73472001112">+7 (347) 200-11-12</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank">ufa.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank">ufa.ecolespb.ru</a></p>
 </div>
-<a href="https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс шугаринга" в стиле Топ1 конец -->
@@ -440,7 +440,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://ufa.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -462,9 +462,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение при раннем бронировании</p>
 <p><strong>📍 Адрес:</strong> г. Уфа, ул. Чернышевского, д. 104</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73472001112">+7 (347) 200-11-12</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://ufa.ecolespb.ru/cosmetology-school/integrativ-nutrition" target="_blank">ufa.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/integrativ-nutrition&sub1=https://ufa.ecolespb.ru/cosmetology-school/integrativ-nutrition" target="_blank">ufa.ecolespb.ru</a></p>
 </div>
-<a href="https://ufa.ecolespb.ru/cosmetology-school/integrativ-nutrition" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/integrativ-nutrition&sub1=https://ufa.ecolespb.ru/cosmetology-school/integrativ-nutrition" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курсы интегративной нутрициологии" в стиле Топ1 конец -->
@@ -533,7 +533,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://ufa.ecolespb.ru/cosmetology-school/integrativ-nutrition" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/integrativ-nutrition&sub1=https://ufa.ecolespb.ru/cosmetology-school/integrativ-nutrition" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -554,9 +554,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение на данный момент.</p>
 <p><strong>📍 Адрес:</strong> Уфа, ул. Чернышевского, д. 104</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73472001112">+7 (347) 200-11-12</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://ufa.ecolespb.ru/cosmetology-school/povyshenie-kvalifikatsii-kosmetologa" target="_blank">ufa.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/povyshenie-kvalifikatsii-kosmetologa&sub1=https://ufa.ecolespb.ru/cosmetology-school/povyshenie-kvalifikatsii-kosmetologa" target="_blank">ufa.ecolespb.ru</a></p>
 </div>
-<a href="https://ufa.ecolespb.ru/cosmetology-school/povyshenie-kvalifikatsii-kosmetologa" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/povyshenie-kvalifikatsii-kosmetologa&sub1=https://ufa.ecolespb.ru/cosmetology-school/povyshenie-kvalifikatsii-kosmetologa" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс повышения квалификации по всесезонным пилингам при работе с гиперпигментацией" в стиле Топ1 конец -->
@@ -627,7 +627,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://ufa.ecolespb.ru/cosmetology-school/povyshenie-kvalifikatsii-kosmetologa" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/povyshenie-kvalifikatsii-kosmetologa&sub1=https://ufa.ecolespb.ru/cosmetology-school/povyshenie-kvalifikatsii-kosmetologa" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -648,9 +648,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> при наличии актуальных предложений</p>
 <p><strong>📍 Адрес:</strong> Уфа, ул. Чернышевского, д. 104</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73472001112">+7 (347) 200-11-12</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://ufa.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank">ufa.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://ufa.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank">ufa.ecolespb.ru</a></p>
 </div>
-<a href="https://ufa.ecolespb.ru/cosmetology-school/programm-master_waxing" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://ufa.ecolespb.ru/cosmetology-school/programm-master_waxing" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Мастер по депиляции" в стиле Топ1 конец -->
@@ -719,7 +719,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://ufa.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://ufa.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -740,9 +740,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в текущий период</p>
 <p><strong>📍 Адрес:</strong> г. Уфа, ул. Чернышевского, д. 104</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73472001112">+7 (347) 200-11-12</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://ufa.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank">ufa.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://ufa.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank">ufa.ecolespb.ru</a></p>
 </div>
-<a href="https://ufa.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://ufa.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс косметологии SPA" в стиле Топ1 конец -->
@@ -811,7 +811,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://ufa.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://ufa.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -834,9 +834,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в данный момент по акции.</p>
 <p><strong>📍 Адрес:</strong> г. Уфа, ул. Чернышевского, д. 104</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73472001112">+7 (347) 200-11-12</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://ufa.ecolespb.ru/cosmetology-school/programm-hardware_cosmetologist" target="_blank">ufa.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/programm-hardware_cosmetologist&sub1=https://ufa.ecolespb.ru/cosmetology-school/programm-hardware_cosmetologist" target="_blank">ufa.ecolespb.ru</a></p>
 </div>
-<a href="https://ufa.ecolespb.ru/cosmetology-school/programm-hardware_cosmetologist" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/programm-hardware_cosmetologist&sub1=https://ufa.ecolespb.ru/cosmetology-school/programm-hardware_cosmetologist" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Мастер аппаратной косметологии" в стиле Топ1 конец -->
@@ -905,7 +905,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://ufa.ecolespb.ru/cosmetology-school/programm-hardware_cosmetologist" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/programm-hardware_cosmetologist&sub1=https://ufa.ecolespb.ru/cosmetology-school/programm-hardware_cosmetologist" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -926,9 +926,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">до 40%</span> в период акций</p>
 <p><strong>📍 Адрес:</strong> г. Уфа, ул. Чернышевского, д. 104</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73472001112">+7 (347) 200-11-12</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://ufa.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank">ufa.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://ufa.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank">ufa.ecolespb.ru</a></p>
 </div>
-<a href="https://ufa.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://ufa.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс аппаратной косметологии" в стиле Топ1 конец -->
@@ -1002,7 +1002,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://ufa.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://ufa.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1023,9 +1023,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> временные предложения по большому числу курсов.</p>
 <p><strong>📍 Адрес:</strong> г. Уфа, ул. Чернышевского, д. 104</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73472722782">+7 (347) 272-27-82</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://ufa.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank">ufa.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/nutrition-courses&sub1=https://ufa.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank">ufa.ecolespb.ru</a></p>
 </div>
-<a href="https://ufa.ecolespb.ru/cosmetology-school/nutrition-courses" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/nutrition-courses&sub1=https://ufa.ecolespb.ru/cosmetology-school/nutrition-courses" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курсы основы нутрициологии" в стиле Топ1 конец -->
@@ -1094,7 +1094,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://ufa.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/nutrition-courses&sub1=https://ufa.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1115,9 +1115,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в текущий период</p>
 <p><strong>📍 Адрес:</strong> г. Уфа, ул. Чернышевского, д. 104</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+79140000000">+7 (914) 000-00-00</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://ufa.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank">ufa.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://ufa.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank">ufa.ecolespb.ru</a></p>
 </div>
-<a href="https://ufa.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://ufa.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс этики и психологии общения с клиентом в косметологии" в стиле Топ1 конец -->
@@ -1186,7 +1186,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://ufa.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://ufa.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1208,9 +1208,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> временно доступна</p>
 <p><strong>📍 Адрес:</strong> г. Уфа, ул. Чернышевского, д. 104</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73472001112">+7 (347) 200-11-12</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://ufa.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank">ufa.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://ufa.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank">ufa.ecolespb.ru</a></p>
 </div>
-<a href="https://ufa.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://ufa.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Косметолог - эстетист" в стиле Топ1 конец -->
@@ -1284,7 +1284,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://ufa.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://ufa.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1306,9 +1306,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в рамках текущих предложений.</p>
 <p><strong>📍 Адрес:</strong> г. Уфа, ул. Чернышевского, д. 104</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+73472001112">+7 (347) 200-11-12</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://ufa.ecolespb.ru/cosmetology-school/upkeep" target="_blank">ufa.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/upkeep&sub1=https://ufa.ecolespb.ru/cosmetology-school/upkeep" target="_blank">ufa.ecolespb.ru</a></p>
 </div>
-<a href="https://ufa.ecolespb.ru/cosmetology-school/upkeep" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/upkeep&sub1=https://ufa.ecolespb.ru/cosmetology-school/upkeep" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курсы эстетической косметологии" в стиле Топ1 конец -->
@@ -1382,7 +1382,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://ufa.ecolespb.ru/cosmetology-school/upkeep" target="_blank" class="order-button">📘 На страницу курса</a> <!-- Конец кнопки: На страницу курса -->
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://ufa.ecolespb.ru/cosmetology-school/upkeep&sub1=https://ufa.ecolespb.ru/cosmetology-school/upkeep" target="_blank" class="order-button">📘 На страницу курса</a> <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
 <!-- Конец разделителя -->

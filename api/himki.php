@@ -90,9 +90,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в период активных акций</p>
 <p><strong>📍 Адрес:</strong> г. Химки, ул. Ленина, д. 10</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74951234567">+7 (495) 123-45-67</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://khimki.ecolespb.ru/cosmetology-school/cosmetology" target="_blank">khimki.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://khimki.ecolespb.ru/cosmetology-school/cosmetology" target="_blank">khimki.ecolespb.ru</a></p>
 </div>
-<a href="https://khimki.ecolespb.ru/cosmetology-school/cosmetology" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://khimki.ecolespb.ru/cosmetology-school/cosmetology" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс дерматологии и анатомии лица" в стиле Топ1 конец -->
@@ -156,7 +156,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://khimki.ecolespb.ru/cosmetology-school/cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/cosmetology&sub1=https://khimki.ecolespb.ru/cosmetology-school/cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -177,9 +177,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> при записи на курс</p>
 <p><strong>📍 Адрес:</strong> г. Химки, ул. Набережная, д. 10</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74951234567">+7 (495) 123-45-67</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://khimki.ecolespb.ru/cosmetology-school/integrativ-nutrition" target="_blank">khimki.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/integrativ-nutrition&sub1=https://khimki.ecolespb.ru/cosmetology-school/integrativ-nutrition" target="_blank">khimki.ecolespb.ru</a></p>
 </div>
-<a href="https://khimki.ecolespb.ru/cosmetology-school/integrativ-nutrition" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/integrativ-nutrition&sub1=https://khimki.ecolespb.ru/cosmetology-school/integrativ-nutrition" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курсы интегративной нутрициологии" в стиле Топ1 конец -->
@@ -245,7 +245,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://khimki.ecolespb.ru/cosmetology-school/integrativ-nutrition" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/integrativ-nutrition&sub1=https://khimki.ecolespb.ru/cosmetology-school/integrativ-nutrition" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -266,9 +266,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в ближайшие дни</p>
 <p><strong>📍 Адрес:</strong> г. Химки, ул. Московская, д. 10</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74959760060">+7 (495) 976-00-60</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank">khimki.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank">khimki.ecolespb.ru</a></p>
 </div>
-<a href="https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс депиляции" в стиле Топ1 конец -->
@@ -337,7 +337,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom&sub1=https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii-voskom" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -358,9 +358,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в текущий период</p>
 <p><strong>📍 Адрес:</strong> г. Химки, ул. Льва Толстого, д. 12</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74951010101">+7 (495) 101-01-01</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://khimki.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank">khimki.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://khimki.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank">khimki.ecolespb.ru</a></p>
 </div>
-<a href="https://khimki.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://khimki.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс этики и психологии общения с клиентом в косметологии" в стиле Топ1 конец -->
@@ -431,7 +431,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://khimki.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya&sub1=https://khimki.ecolespb.ru/cosmetology-school/ehtika-i-psihologiya-obshcheniya" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -453,9 +453,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в течение всего учебного года</p>
 <p><strong>📍 Адрес:</strong> г. Химки, ул. Приморская, д. 15</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74957760001">+7 (495) 776-00-01</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://khimki.ecolespb.ru/cosmetology-school/nurse" target="_blank">khimki.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/nurse&sub1=https://khimki.ecolespb.ru/cosmetology-school/nurse" target="_blank">khimki.ecolespb.ru</a></p>
 </div>
-<a href="https://khimki.ecolespb.ru/cosmetology-school/nurse" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/nurse&sub1=https://khimki.ecolespb.ru/cosmetology-school/nurse" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс сестринского дела" в стиле Топ1 конец -->
@@ -524,7 +524,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://khimki.ecolespb.ru/cosmetology-school/nurse" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/nurse&sub1=https://khimki.ecolespb.ru/cosmetology-school/nurse" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -545,9 +545,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в текущий период акций</p>
 <p><strong>📍 Адрес:</strong> г. Химки, ул. Примерная, д. 10</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74951234567">+7 (495) 123-45-67</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://khimki.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank">khimki.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://khimki.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank">khimki.ecolespb.ru</a></p>
 </div>
-<a href="https://khimki.ecolespb.ru/cosmetology-school/programm-master_waxing" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://khimki.ecolespb.ru/cosmetology-school/programm-master_waxing" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Мастер по депиляции" в стиле Топ1 конец -->
@@ -613,7 +613,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://khimki.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/programm-master_waxing&sub1=https://khimki.ecolespb.ru/cosmetology-school/programm-master_waxing" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -634,9 +634,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в период действующих акций</p>
 <p><strong>📍 Адрес:</strong> г. Химки, ул. Ленина, д. 45</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74957890000">+7 (495) 789-00-00</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://khimki.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank">khimki.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://khimki.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank">khimki.ecolespb.ru</a></p>
 </div>
-<a href="https://khimki.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://khimki.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс повышения квалификации по всесезонным пилингам при работе с гиперпигментацией" в стиле Топ1 конец -->
@@ -715,7 +715,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://khimki.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa&sub1=https://khimki.ecolespb.ru/cosmetology-school/povyshenie-kvalifikacii-kosmetologa" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -737,9 +737,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в период специальных предложений</p>
 <p><strong>📍 Адрес:</strong> г. Химки, ул. Красная, д. 3</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74951234567">+7 (495) 123-45-67</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://khimki.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank">khimki.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://khimki.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank">khimki.ecolespb.ru</a></p>
 </div>
-<a href="https://khimki.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://khimki.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс косметологии SPA" в стиле Топ1 конец -->
@@ -808,7 +808,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://khimki.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body&sub1=https://khimki.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -829,9 +829,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в период действия акций</p>
 <p><strong>📍 Адрес:</strong> г. Химки, ул. Ленина, д. 10</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74952506060">+7 (495) 250-60-60</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://khimki.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" target="_blank">khimki.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/programm-uhod-za-licom&sub1=https://khimki.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" target="_blank">khimki.ecolespb.ru</a></p>
 </div>
-<a href="https://khimki.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/programm-uhod-za-licom&sub1=https://khimki.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Косметик-эстетист по уходу за лицом" в стиле Топ1 конец -->
@@ -907,7 +907,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://khimki.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/programm-uhod-za-licom&sub1=https://khimki.ecolespb.ru/cosmetology-school/programm-uhod-za-licom" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -929,9 +929,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение в акции</p>
 <p><strong>📍 Адрес:</strong> г. Химки, ул. Московская, д. 1</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74955712345">+7 (495) 571-23-45</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://khimki.ecolespb.ru/cosmetology-school/programm-hardware_cosmetologist" target="_blank">khimki.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/programm-hardware_cosmetologist&sub1=https://khimki.ecolespb.ru/cosmetology-school/programm-hardware_cosmetologist" target="_blank">khimki.ecolespb.ru</a></p>
 </div>
-<a href="https://khimki.ecolespb.ru/cosmetology-school/programm-hardware_cosmetologist" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/programm-hardware_cosmetologist&sub1=https://khimki.ecolespb.ru/cosmetology-school/programm-hardware_cosmetologist" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Мастер аппаратной косметологии" в стиле Топ1 конец -->
@@ -1000,7 +1000,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://khimki.ecolespb.ru/cosmetology-school/programm-hardware_cosmetologist" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/programm-hardware_cosmetologist&sub1=https://khimki.ecolespb.ru/cosmetology-school/programm-hardware_cosmetologist" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1022,9 +1022,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в течение ограниченного времени</p>
 <p><strong>📍 Адрес:</strong> г. Химки, ул. Ленина, д. 10</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74951234567">+7 (495) 123-45-67</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank">khimki.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank">khimki.ecolespb.ru</a></p>
 </div>
-<a href="https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс повышения квалификации по депиляции" в стиле Топ1 конец -->
@@ -1098,7 +1098,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii&sub1=https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1120,9 +1120,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> при текущих акциях.</p>
 <p><strong>📍 Адрес:</strong> Химки, ул. Ленина, д. 15</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74955555555">+7 (495) 555-55-55</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank">khimki.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank">khimki.ecolespb.ru</a></p>
 </div>
-<a href="https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс шугаринга" в стиле Топ1 конец -->
@@ -1191,7 +1191,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii&sub1=https://khimki.ecolespb.ru/cosmetology-school/kursy-depilyacii" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1213,9 +1213,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в течение ограниченного времени.</p>
 <p><strong>📍 Адрес:</strong> г. Химки, ул. Пушкина, д. 10</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74951234567">+7 (495) 123-45-67</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://khimki.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank">khimki.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://khimki.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank">khimki.ecolespb.ru</a></p>
 </div>
-<a href="https://khimki.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://khimki.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс аппаратной косметологии" в стиле Топ1 конец -->
@@ -1294,7 +1294,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://khimki.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology&sub1=https://khimki.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1316,9 +1316,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение, пока идет акция.</p>
 <p><strong>📍 Адрес:</strong> Химки, ул. Примерная, д. 1</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74951234567">+7 (495) 123-45-67</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://khimki.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank">khimki.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://khimki.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank">khimki.ecolespb.ru</a></p>
 </div>
-<a href="https://khimki.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://khimki.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Косметолог - эстетист" в стиле Топ1 конец -->
@@ -1397,7 +1397,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://khimki.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician&sub1=https://khimki.ecolespb.ru/cosmetology-school/programm-cosmetologist_esthetician" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1418,9 +1418,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> доступна при записи на курс</p>
 <p><strong>📍 Адрес:</strong> г. Химки, ул. Ленина, д. 15</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74951234567">+7 (495) 123-45-67</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://khimki.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank">khimki.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/nutrition-courses&sub1=https://khimki.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank">khimki.ecolespb.ru</a></p>
 </div>
-<a href="https://khimki.ecolespb.ru/cosmetology-school/nutrition-courses" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/nutrition-courses&sub1=https://khimki.ecolespb.ru/cosmetology-school/nutrition-courses" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курсы основы нутрициологии" в стиле Топ1 конец -->
@@ -1489,7 +1489,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://khimki.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/nutrition-courses&sub1=https://khimki.ecolespb.ru/cosmetology-school/nutrition-courses" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1510,9 +1510,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> на обучение</p>
 <p><strong>📍 Адрес:</strong> г. Химки, ул. Ленина, д. 12</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+74951234567">+7 (495) 123-45-67</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://khimki.ecolespb.ru/cosmetology-school/programm-uhod-za-telom" target="_blank">khimki.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/programm-uhod-za-telom&sub1=https://khimki.ecolespb.ru/cosmetology-school/programm-uhod-za-telom" target="_blank">khimki.ecolespb.ru</a></p>
 </div>
-<a href="https://khimki.ecolespb.ru/cosmetology-school/programm-uhod-za-telom" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/programm-uhod-za-telom&sub1=https://khimki.ecolespb.ru/cosmetology-school/programm-uhod-za-telom" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Косметик-эстетист по уходу за телом" в стиле Топ1 конец -->
@@ -1586,7 +1586,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://khimki.ecolespb.ru/cosmetology-school/programm-uhod-za-telom" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/programm-uhod-za-telom&sub1=https://khimki.ecolespb.ru/cosmetology-school/programm-uhod-za-telom" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
@@ -1607,9 +1607,9 @@ foreach (glob("*.php") as $filename) {
 <p><strong>🔥 Скидка:</strong> <span class="price-highlight">40%</span> в течение текущей акции</p>
 <p><strong>📍 Адрес:</strong> г. Химки, ул. Красноармейская, д. 1</p>
 <p><strong>📞 Телефон:</strong> <a href="tel:+78555555555">+7 (855) 555-55-55</a></p>
-<p><strong>🌐 Сайт:</strong> <a href="https://khimki.ecolespb.ru/cosmetology-school/upkeep" target="_blank">khimki.ecolespb.ru</a></p>
+<p><strong>🌐 Сайт:</strong> <a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/upkeep&sub1=https://khimki.ecolespb.ru/cosmetology-school/upkeep" target="_blank">khimki.ecolespb.ru</a></p>
 </div>
-<a href="https://khimki.ecolespb.ru/cosmetology-school/upkeep" class="order-button" target="_blank">На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/upkeep&sub1=https://khimki.ecolespb.ru/cosmetology-school/upkeep" class="order-button" target="_blank">На страницу курса</a>
 </div>
 </div>
 <!-- Главная карточка "Курс эстетической косметологии" в стиле Топ1 конец -->
@@ -1688,7 +1688,7 @@ foreach (glob("*.php") as $filename) {
 </div>
 <!-- Конец блока: Чему вы научитесь -->
 <!-- Кнопка: На страницу курса -->
-<a href="https://khimki.ecolespb.ru/cosmetology-school/upkeep" target="_blank" class="order-button">📘 На страницу курса</a>
+<a href="https://go.avnxt.site/3b6bc242f51d5261?erid=LdtCKaoMZ&m=2&dl=https://khimki.ecolespb.ru/cosmetology-school/upkeep&sub1=https://khimki.ecolespb.ru/cosmetology-school/upkeep" target="_blank" class="order-button">📘 На страницу курса</a>
 <!-- Конец кнопки: На страницу курса -->
 <!-- Разделитель между курсами -->
 <hr class="section-divider">
